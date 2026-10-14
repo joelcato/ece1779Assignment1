@@ -1,2 +1,4 @@
 .idea/
 __pycache__
+# never commit cloud credentials
+.aws/
